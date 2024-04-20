@@ -1,6 +1,1 @@
 https://github.com/DXB-Marshes/marshes.github.io.git
-$ dig www.dxbmarshes.com +nostats +nocomments +nocmd
-;WWW.dxbmarshes.COM.                    IN      A
-WWW.dxbmarshes.COM.             3592    IN      CNAME   marshes.github.io.
-marshes.github.io      43192   IN      CNAME   GITHUB-PAGES-SERVER .
-GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
